@@ -1,1 +1,1 @@
-# Podstawy programowania 
+# Podstawy programowania zadanie PS
